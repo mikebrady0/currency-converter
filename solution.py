@@ -1,0 +1,1 @@
+# This is the main text for the currency calculator
